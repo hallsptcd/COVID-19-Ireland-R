@@ -1,1 +1,1 @@
-Covid Files
+A detailed analysis of the COVID-19 pandemic in Ireland in terms of the number of cases among the general population and among healthcare workers, the number of hospitalisations, and the number of deaths, alongside an analysis of excess deaths.
